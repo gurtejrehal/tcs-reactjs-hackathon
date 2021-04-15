@@ -1,16 +1,16 @@
 {
   "customers": [
    {
-      id: 101,
-      name: "Gurtej",
-      country: "India",
-      important: true
+      "id": 101,
+      "name": "Gurtej",
+      "country": "India",
+      "important": true
     },
     {
-      id: 102,
-      name: "Sudo",
-      country: "Usa",
-      important: false
+      "id": 102,
+      "name": "Sudo",
+      "country": "Usa",
+      "important": false
     }
   ]
 }
